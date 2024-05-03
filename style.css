@@ -1,0 +1,22 @@
+body {
+    background-color: aqua;
+}
+
+#score {
+ font-size: 50px;
+ margin-left: 50px;
+}
+
+#time {
+    font-size: 50px;
+    float:right;
+    margin-right: 50px;
+}
+
+#label {
+    color: white;
+}
+
+#canvas {
+    background-color: white;
+}
